@@ -9,7 +9,7 @@ token = '6167500256:AAF_nDdGlgQQb1nZq2QT1Ut84bL4INICAXk'
 bot = telebot.TeleBot(token)
 
 # ChatGPT
-openai.api_key = "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"
+openai.api_key = "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"
 openai.Model.list()
 
 def get_chatgpt_response(prompt):
